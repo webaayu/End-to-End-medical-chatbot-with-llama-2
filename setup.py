@@ -1,7 +1,7 @@
 from setuptools import find_packages,setup
 #call setup method
 setup(
-    name='mcqgenrator',
+    name='mchatbot',
     version='0.0.1',
     author='Prtaiksha Patel',
     author_email='pratiksha@cloudyuga.guru',
