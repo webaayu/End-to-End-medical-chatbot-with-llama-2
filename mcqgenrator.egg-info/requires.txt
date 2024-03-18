@@ -1,0 +1,7 @@
+ctransformers
+langchain
+Flask
+sentence-transformers
+python-dotenv
+PyPDF2
+pinecone-client

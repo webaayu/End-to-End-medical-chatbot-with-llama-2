@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mcqgenrator
+Version: 0.0.1
+Author: Prtaiksha Patel
+Author-email: pratiksha@cloudyuga.guru
+Requires-Dist: ctransformers
+Requires-Dist: langchain
+Requires-Dist: Flask
+Requires-Dist: sentence-transformers
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: pinecone-client
